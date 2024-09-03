@@ -21,7 +21,8 @@ Customers can send different types of shipping contents. Payment is to be done a
 same time the product is delivered to the client. Delivery boy and centre head can update
 the status of the shipment. Create a database schema and table relationships that can be
 used in any technology.
-SCOPE
+
+## SCOPE
 It is of critical importance to the organization how it delivers products & services to the
 customer, whether the product is tangible or intangible. Effective and efficient physical
 movement of the tangible product will speak of intangible services associated with the
@@ -30,8 +31,5 @@ In case of intangible products, the delivery of tangibles at the right place & r
 speak about its quality. On the macro level infrastructure such as various modes of
 transport, transportation equipment, storage facilities, connectivity and information
 processing are contributing to a large extent in the physical movement of goods produced
-in manufacturing, mining and agriculture Sectors.
-SQL Problem Statement
-Confidential and Restricted. Do not Distribute. © Imarticus Learning 3
-This speed and reliability in distribution of products and services contribute to a great
+in manufacturing, mining and agriculture Sectors.This speed and reliability in distribution of products and services contribute to a great
 extent in the growth of a country’s domestic and international trade
