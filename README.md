@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/de53ff4c-5dd5-4cf6-b155-5c7a19e87bde)
+
 ## ABSTRACT
 Logistics is the support function of an organization and it means having the right object,
 at the right place, in the right time. Logistics deals with various kinds of methods to
